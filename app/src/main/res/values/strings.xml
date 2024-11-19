@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Biometric Signaturee</string>
+    <string name="signature_image">signature_image</string>
+</resources>
